@@ -1,4 +1,4 @@
-package Methods;
+package Methods1;
 import java.util.Scanner;
 
 //Write a method displayName() that accepts a name as a parameter and prints it.

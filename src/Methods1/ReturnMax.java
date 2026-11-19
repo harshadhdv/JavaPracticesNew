@@ -1,4 +1,4 @@
-package Methods;
+package Methods1;
 import java.util.Scanner;
 //Write a method getMaximum() that accepts two integers and returns the larger number.
 public class ReturnMax {

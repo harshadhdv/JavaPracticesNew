@@ -1,4 +1,4 @@
-package Methods;
+package Methods1;
 import java.util.Scanner;
 //Write a method add() that accepts two integers and prints their sum.
 public class PrintSum {

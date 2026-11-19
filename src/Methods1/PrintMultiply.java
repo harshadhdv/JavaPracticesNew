@@ -1,4 +1,4 @@
-package Methods;
+package Methods1;
 import java.util.Scanner;
 
 //Write a method multiply() that accepts two numbers and returns their product.

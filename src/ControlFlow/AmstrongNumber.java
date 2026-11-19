@@ -8,18 +8,17 @@ public class AmstrongNumber {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         System.out.print("Enter a number to check Amstrong or not : ");
-        int num = s.nextInt();
-        int num2=num;
-        int numtest=num;
-        int cubetotal = 0;
-        int digits = 0;
+        int num = s.nextInt();//get an number
+        int num2=num;//get a copy of that number for future use
+        int numtest=num;//get the copy of the number for final testing
+        int cubetotal = 0;//this is the variable which adds all the cubes of the number
+        int digits = 0;//this is the variable which counts the digits of the number
         while(num>0){
             num=num/10;
             digits++;
         }
         //looping for seperating the digits
-        //we use the number 2 copy num2 here
-        while (num2 > 0) {
+        while (num2 > 0) {//we use the number 2 copy num2 here
            int temp=num2%10;
            int cube=1;//initializing the individual cubing outside the block
            //power multiplication to its digits

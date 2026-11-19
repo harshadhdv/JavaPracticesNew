@@ -1,4 +1,4 @@
-package Methods;
+package Methods1;
 import java.util.Scanner;
 //Write a method isEven() that accepts an integer and returns true if it is even.
 public class OddOrEve {
