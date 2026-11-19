@@ -1,4 +1,4 @@
-package Methods;
+package Methods1;
 import java.util.Scanner;
 //Write a method subtract() that accepts two integers and returns their difference.
 public class PrintSubtract {

@@ -1,4 +1,4 @@
-package Methods;
+package Methods1;
 import java.util.Scanner;
 
 //Write a method getSquare() that accepts a number and returns its square.

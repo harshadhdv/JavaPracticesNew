@@ -1,4 +1,4 @@
-package Methods;
+package Methods1;
 
 //Write a method greet() that prints Hello, Java!.
 public class Greet {
